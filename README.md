@@ -4,5 +4,4 @@
             
             
             
-            
-            ![Screenshot 2024-05-19 123152](https://github.com/aloukik16/Registration_Form_Project/assets/150384385/ba9296d0-0aa6-41b0-b595-3c83e2e5c680)
+   ![Screenshot 2024-05-19 123152](https://github.com/aloukik16/Registration_Form_Project/assets/150384385/ba9296d0-0aa6-41b0-b595-3c83e2e5c680)
